@@ -1,4 +1,4 @@
-from ChatApp import ChatApp
+from chat_app import ChatApp
 
 
 if __name__ == "__main__":

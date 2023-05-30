@@ -1,4 +1,3 @@
-
 #Doubly Linked List Node
 class Node:
     def __init__(self, data):

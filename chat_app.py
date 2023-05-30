@@ -1,7 +1,7 @@
 import time
-from User import User
-from Node import Node
-from Status import Status
+from user import User
+from node import Node
+from status import Status
 
 
 class ChatApp:
